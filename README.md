@@ -1,5 +1,3 @@
-Hi there 👋! My name is Luca.
-
 👋 Hello there! I'm Luca Faggion, a recent IT graduate passionate about leveraging technology to drive innovation and solve real-world challenges. Welcome to my GitHub profile!
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkimage&show_icons=true&theme=nord" alt="reapism" />
